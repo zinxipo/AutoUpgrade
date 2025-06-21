@@ -2,6 +2,6 @@
 <item>
   <version>1.0.1.0</version>
   <url>https://yourdomain.com/files/SplitDataSetup.exe</url>
-  <changelog>https://yourdomain.com/files/changelog.html</changelog>
+  <changelog>https://github.com/zinxipo/AutoUpgrade/blob/main/files/changelog.html</changelog>
   <mandatory>false</mandatory>
 </item>
